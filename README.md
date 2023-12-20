@@ -1,7 +1,7 @@
 # ManikantThatipalli
 About me 
 
-👋 Hi there! I'm Manikant Thatipalli, a passionate Data Scientist and Machine Learning (ML) specialist based in Atlanta, GA. Currently pursuing a Master's in Science in Analytics with a focus on the Computational Track at the Georgia Institute of Technology, I'm deeply involved in coursework and projects, particularly in the realm of Natural Language Processing (NLP) and Computer Vision.
+👋 Hi there! I'm Manikant Thatipalli, a passionate Data Scientist and Machine Learning (ML) specialist based in Atlanta, GA. Currently pursuing a Master's in Science in Analytics with a focus on the Computational Track at the Georgia Institute of Technology, with coursework and projects centered particularly in the realm of Natural Language Processing (NLP) and Computer Vision.
 
 🚀 My journey in the world of data has been diverse, spanning roles at renowned organizations like A.P. Moller - Maersk and Dr. Reddy's Pharmaceuticals Ltd., where I applied my skills in Information Extraction, NLP, and ML to drive impactful solutions. My expertise includes a rich array of languages and tools, ranging from Python and R to TensorFlow and PyTorch. I've also earned certifications like Azure Data Scientist Associate and completed specialized courses in Deep Learning.
 
